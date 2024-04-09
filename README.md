@@ -1,1 +1,1 @@
-# gugu-project
+# chatbot-project
